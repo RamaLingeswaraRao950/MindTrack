@@ -1,4 +1,4 @@
-# 📓 MindTrack 📓
+# 📝 MindTrack 📝
 
 MindTrack is a desktop application. It helps you to log, organize, and revisit your daily learning in a clean, interactive dashboard-style interface. Whether you're a student 📚, a developer 💻, or a lifelong learner 🌱 — this journal keeps your knowledge structured, backed up, and easily searchable.
 
@@ -13,12 +13,9 @@ MindTrack is a desktop application. It helps you to log, organize, and revisit y
 - ✅ **Clear All Option** – Start fresh anytime  
 
 ### 🚀 Installation :--  
-
-1️⃣ Clone the repository
-
-2️⃣ Install dependencies
-
-3️⃣ Run the app
+- 1️⃣ Clone the repository
+- 2️⃣ Install dependencies
+- 3️⃣ Run the app
 
 ### 💡 Usage Tips :--
 - ✏ Double-click an entry to edit it
